@@ -4,4 +4,5 @@
 3. We code each block using a certain matrix.
 4. We transform the results into letters.
 5. Calculations are made according to the number of letters of the alphabet. 
-![char](screenshots/code1.png)
+
+![char](screenshots/chars.png)
