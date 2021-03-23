@@ -15,5 +15,6 @@ let's say we have the message **"NO RESPONSE"** using a block length **m = 2** a
 2. By digit each block, we obtain:
 
   ![code2](screenshots/code2.png)
+ 
 3. We code each pair by multiplying it by **T**: 
 Thus, for the first couple![code3](screenshots/code3.png), we calculate: ![code4](screenshots/code4.png)
