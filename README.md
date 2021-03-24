@@ -1,5 +1,5 @@
 # Hill-cipher
-It is an cryptography algorithm use symetric encryption/decryption and it's encrypt key is matrix \[\*n\*n\], n={1,2,...,n}
+It is an cryptography algorithm use symetric encryption/decryption and it has encrypt key as matrix \[n\*n\], n={1,2,...,n}
 for more informations see on wikipedia [here](https://en.wikipedia.org/wiki/Hill_cipher)
 ## how it work 
 1. We start by grouping the letters of the plain text into blocks of **m** characters.
