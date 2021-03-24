@@ -1,6 +1,9 @@
-# Hill-crypto
+# Hill-cipher
+It is an cryptography algorithm use symetric encryption/decryption and it's encrypt key is matrix \[\*n\*n\], n={1,2,...,n}
+for more informations see on wikipedia [here](https://en.wikipedia.org/wiki/Hill_cipher)
+## how it work 
 1. We start by grouping the letters of the plain text into blocks of **m** characters.
-2. Each block is digitized.
+2. Each block it should numberized.
 3. We code each block using a certain matrix.
 4. We transform the results into letters.
 5. Calculations are made according to the number of letters of the alphabet. 
