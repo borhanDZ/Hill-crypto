@@ -17,4 +17,16 @@ let's say we have the message **"NO RESPONSE"** using a block length **m = 2** a
   ![code2](screenshots/code2.png)
  
 3. We code each pair by multiplying it by **T**: 
-Thus, for the first couple![code3](screenshots/code3.png), we calculate: ![code4](screenshots/code41.png)
+Thus, for the first couple![code3](screenshots/code3.png), we calculate: ![code4](screenshots/code41.png) =
+
+![code5](screenshots/code5.png)
+
+We can code all the couples at the same time by multiplying T by the matrix of couples:
+
+![code6](screenshots/code6.png)
+
+4. We transform the resulting matrix into letters: 
+
+![code7](screenshots/code7.png)
+
+The result is therefore: **PASDEREPONSE ==> URFVEGHXEDS!** 
