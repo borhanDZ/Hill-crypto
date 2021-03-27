@@ -48,7 +48,7 @@ git clone https://github.com/borhanDZ/Hill-crypto.git
   
 ![screen1](screenshots/Screen1.jpg)
 
-press on show All buttom to show the tow panel ,one foe encryption and the secend for decryption 
+press on show All button to show the tow panel ,one for encryption and the secend for decryption 
 
 ![screen2](screenshots/Screen2.jpg)
 
