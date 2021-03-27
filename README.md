@@ -13,7 +13,7 @@ for more informations see on wikipedia [here](https://en.wikipedia.org/wiki/Hill
 We are working with an alphabet of 29 characters because 29 is a prime number.
 ## Algorithm of Hill
 #### Example:
-let's say we have the message **"NO RESPONSE"** using a block length **m = 2** and a matrix of key T = ![code1](screenshots/code101.png)
+let's say we have the message **"NO RESPONSE"** using a block length **m = 2** and a matrix of key T:  ![code1](screenshots/code101.png)
 1. The letters **2** to **2** are grouped together: **PA SD ER EP ON SE**
 2. By digit each block, we obtain:
 
@@ -33,3 +33,11 @@ We can code all the couples at the same time by multiplying T by the matrix of c
 ![code7](screenshots/code7.png)
 
 The result is therefore: **PASDEREPONSE ==> URFVEGHXEDS!** 
+## running steps
+- first install matlab on your machine.
+- on the terminal type:
+''' git clone https://github.com/borhanDZ/Hill-crypto.git       '''
+- or just download the file as zip on windows machines
+- copy the hill app on matlab project path.
+- open matlab and then open the folder path, on workspace type 
+      '''>>HILL                                             '''
