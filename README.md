@@ -36,8 +36,10 @@ The result is therefore: **PASDEREPONSE ==> URFVEGHXEDS!**
 ## running steps
 - first install matlab on your machine.
 - on the terminal type:
-''' git clone https://github.com/borhanDZ/Hill-crypto.git       '''
+```
+git clone https://github.com/borhanDZ/Hill-crypto.git 
+```
 - or just download the file as zip on windows machines
 - copy the hill app on matlab project path.
 - open matlab and then open the folder path, on workspace type 
-      '''>>HILL                                             '''
+      `>>HILL       `                                            '''
