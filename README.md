@@ -42,14 +42,17 @@ git clone https://github.com/borhanDZ/Hill-crypto.git
 - or just download the file as zip on windows machines
 - copy the hill app on matlab project path.
 - open matlab and then open the folder path, on workspace type 
-      ```>>HILL ```
+      ```
+      >>HILL 
+      ```
   
-![screen1](screenshots/Sceen1.png)
+![screen1](screenshots/Sceen1.jpg)
 
 press on show All buttom to show the tow panel ,one foe encryption and the secend for decryption 
-![screen2](screenshots/Sceen2.png)
+
+![screen2](screenshots/Sceen2.jpg)
 
 here example message : **YOU HAVE BEEN HACKED** encrypted and decrypted with a key value matrix 2*2 [5 11;4 -3] 
 
-![screen3](screenshots/Sceen3.png)
+![screen3](screenshots/Sceen3.jpg)
 
